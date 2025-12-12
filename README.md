@@ -17,9 +17,9 @@
 ## *TP 1 - TinyGPT*
 <a href="https://github.com/mdegano-fiuba/MIA_PNL2/tree/main/TP1" target="_blank"><img alt="TP1" src="https://img.shields.io/badge/Github-TP1-B9E1F5?style=flat-square&logo=github"></a>
 <br>
-## *TP 2 - [TBD]*
-<a href="#" target="_blank"><img alt="TP2" src="https://img.shields.io/badge/Github-TP2-B9E1F5?style=flat-square&logo=github"></a>
+## *TP 2 - Chatbot*
+<a href="https://github.com/mdegano-fiuba/MIA_PNL2/tree/main/TP2" target="_blank"><img alt="TP2" src="https://img.shields.io/badge/Github-TP2-B9E1F5?style=flat-square&logo=github"></a>
 <br>
-## *TP 3 - [TBD]*
-<a href="#" target="_blank"><img alt="TP3" src="https://img.shields.io/badge/Github-TP3-B9E1F5?style=flat-square&logo=github"></a>
+## *TP 3 - Agentes*
+<a href="https://github.com/mdegano-fiuba/MIA_PNL2/tree/main/TP3" target="_blank"><img alt="TP3" src="https://img.shields.io/badge/Github-TP3-B9E1F5?style=flat-square&logo=github"></a>
 <br>
